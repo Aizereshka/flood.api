@@ -1,6 +1,5 @@
 fastapi==0.111.1
 uvicorn[standard]==0.23.2
-pandas==2.1.1
-numpy==1.27.0
+pandas==2.2.2  # Обновляем до более новой, совместимой с 3.11
 catboost==1.2.2
-python-multipart==0.0.6
+joblib==1.4.2
